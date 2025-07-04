@@ -12,7 +12,7 @@
   {
     "name": "Sleepy Cat",
     "image": "lucy/1.jpg",
-    "description": "honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo",
+    "description": "honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo. You always get your 8 hours",
     "q1": true,
     "q2": true,
     "q3": false,
@@ -22,7 +22,7 @@
   {
     "name": "Sauna Cat",
     "image": "levi/2.jpg",
-    "description": "Nothing like a good sauna to sweat out your worries and ease your joints. Make sure you drink lots of water!",
+    "description": "Nothing like a good sauna to sweat out your worries and ease your joints. Youre in touch with your body and emotions, just make sure you drink lots of water!",
     "q1": true,
     "q2": false,
     "q3": false,
