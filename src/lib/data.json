@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Heartbreak Cat",
+    "image": "levi/1.jpg",
+    "description": "Sometimes things just aren't going your way. Pick your head up king, your crown is falling.",
+    "q1": false,
+    "q2": true,
+    "q3": false,
+    "q4": false,
+    "q5": false
+  },
+  {
+    "name": "Sleepy Cat",
+    "image": "lucy/1.jpg",
+    "description": "honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo honk shoo",
+    "q1": true,
+    "q2": true,
+    "q3": false,
+    "q4": false,
+    "q5": true
+  },
+  {
+    "name": "Sauna Cat",
+    "image": "levi/2.jpg",
+    "description": "Nothing like a good sauna to sweat out your worries and ease your joints. Make sure you drink lots of water!",
+    "q1": true,
+    "q2": false,
+    "q3": false,
+    "q4": true,
+    "q5": true
+  },
+  {
+    "name": "Comet Cat",
+    "image": "lucy/2.jpg",
+    "description": "You're out of this world!! Buring bright and moving fast 💫",
+    "q1": false,
+    "q2": false,
+    "q3": false,
+    "q4": true,
+    "q5": false
+  },
+  {
+    "name": "Shitten",
+    "image": "levi/3.jpg",
+    "description": "You run this shit like diarrhea.",
+    "q1": true,
+    "q2": true,
+    "q3": true,
+    "q4": true,
+    "q5": true
+  },
+  {
+    "name": "Creeper Cat",
+    "image": "lucy/3.jpg",
+    "description": "Creeper, aw man. You just might have what it takes to beat the ender dragon.",
+    "q1": true,
+    "q2": true,
+    "q3": true,
+    "q4": false,
+    "q5": true
+  },
+  {
+    "name": "Puter Cat",
+    "image": "levi/4.jpg",
+    "description": "Beep boop beep boop. Get off of the computer pls and touch grass.",
+    "q1": true,
+    "q2": true,
+    "q3": true,
+    "q4": true,
+    "q5": false
+  },
+  {
+    "name": "Kiwi Cat",
+    "image": "lucy/4.jpg",
+    "description": "Just like a kiwi, you're fuzzy on the outside and sweet on the inside.",
+    "q1": false,
+    "q2": false,
+    "q3": false,
+    "q4": true,
+    "q5": true
+  },
+  {
+    "name": "Festive Cat",
+    "image": "levi/5.jpg",
+    "description": "You're always looking for an excuse to party.",
+    "q1": true,
+    "q2": false,
+    "q3": false,
+    "q4": false,
+    "q5": true
+  },
+  {
+    "name": "Cerberus Cat",
+    "image": "lucy/5.jpg",
+    "description": "You're good at multitasking but maybe not the best at cooperation.",
+    "q1": true,
+    "q2": true,
+    "q3": false,
+    "q4": true,
+    "q5": true
+  },
+  {
+    "name": "Pho Cat",
+    "image": "levi/6.jpg",
+    "description": "You have good taste in food and constantly bemoan the lack of good viet food in nyc.",
+    "q1": false,
+    "q2": false,
+    "q3": true,
+    "q4": false,
+    "q5": true
+  },
+  {
+    "name": "Global Warming Cat",
+    "image": "lucy/6.jpg",
+    "description": "You're aware of the world and your place in it. You probably are reading the news a bit too much.",
+    "q1": false,
+    "q2": true,
+    "q3": true,
+    "q4": true,
+    "q5": true
+  },
+  {
+    "name": "Apple Cat",
+    "image": "levi/7.jpg",
+    "description": "You probably think the apple is rotten right to the core from all the things passed down from all the apples coming before",
+    "q1": true,
+    "q2": false,
+    "q3": true,
+    "q4": true,
+    "q5": true
+  },
+  {
+    "name": "Cat who is going to be okay",
+    "image": "lucy/7.jpg",
+    "description": "You love your community and your family, biological or chosen.",
+    "q1": true,
+    "q2": false,
+    "q3": false,
+    "q4": false,
+    "q5": true
+  },
+  {
+    "name": "Jetsetter Cat",
+    "image": "levi/8.jpg",
+    "description": "You are always the one hitting up the group chat to go to a new country.",
+    "q1": false,
+    "q2": true,
+    "q3": false,
+    "q4": true,
+    "q5": true
+  },
+  {
+    "name": "Babhuska Cat",
+    "image": "lucy/8.jpg",
+    "description": "You're the mom friend of the group, and have back problems in your mid 20s",
+    "q1": false,
+    "q2": false,
+    "q3": false,
+    "q4": false,
+    "q5": true
+  },
+  {
+    "name": "Round Cat",
+    "image": "levi/9.jpg",
+    "description": "Youre cunning and mysteious. Always making moves in silence 🤫",
+    "q1": false,
+    "q2": true,
+    "q3": false,
+    "q4": false,
+    "q5": true
+  },
+  {
+    "name": "Frolicking Cat",
+    "image": "lucy/9.jpeg",
+    "description": "You love exploring new neighboorhoods and new hobbies. You probably leave a string of unfinished projects in your wake.",
+    "q1": false,
+    "q2": false,
+    "q3": true,
+    "q4": true,
+    "q5": false
+  },
+  {
+    "name": "Aussie Cat",
+    "image": "levi/10.jpg",
+    "description": "G'day mate. You enjoy hitting up servos for sunnies and going to maccies parcking lots for a ciggie. You'd fit right in at Bondi Beach",
+    "q1": false,
+    "q2": true,
+    "q3": false,
+    "q4": true,
+    "q5": false
+  },
+  {
+    "name": "Superstar Cat",
+    "image": "lucy/10.jpg",
+    "description": "You were born to be a star. Yippee!!!",
+    "q1": true,
+    "q2": false,
+    "q3": true,
+    "q4": false,
+    "q5": true
+  }
+]
