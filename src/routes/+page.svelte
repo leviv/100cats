@@ -151,7 +151,7 @@
 {/if}
 
 <footer>
-<p>A <a href="https://instagram.com/100days200cats">100days200cats</a> project by <a href="https://leviv.cool">lucy</a> and <a href="https://leviv.cool">levi</a></p>
+<p>A <a href="https://instagram.com/100days200cats">100days200cats</a> project by <a href="https://lyuu.cc/">lucy</a> and <a href="https://leviv.cool">levi</a></p>
 
 <p>Made with 🫶 in NYC &copy; 2025</p>
 </footer>
@@ -192,11 +192,11 @@
   }
 
   .results {
-    max-width: 800px;
+    max-width: 760px;
     margin: 0 auto 50px auto;
     text-align: center;
     padding: 20px;
-    border: 2px solid #333;
+    border: 1px solid #333;
     border-radius: 10px;
     background-color: #f9f9f9;
   }
