@@ -27,7 +27,7 @@
     "q2": false,
     "q3": false,
     "q4": true,
-    "q5": true
+    "q5": false
   },
   {
     "name": "Comet Cat",
@@ -86,7 +86,7 @@
     "q1": true,
     "q2": false,
     "q3": false,
-    "q4": false,
+    "q4": true,
     "q5": true
   },
   {
